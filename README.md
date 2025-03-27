@@ -1,6 +1,12 @@
 # Hello World 🎉
 
 Ein einfaches "Hello, World!" Programm in verschiedenen Programmiersprachen.
+public class Main{
+public static void main(String[] args) {
+	
+System.out.println("Hello World");
+}
+}
 
 ## Installation 🛠️
 Repository klonen:
